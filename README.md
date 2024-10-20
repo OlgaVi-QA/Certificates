@@ -1,6 +1,6 @@
 # Certificates
 
-[Удостоверение ООО "Промбезопасность"](https://github.com/OlgaVi-QA/Certificates/blob/main/certificate_main.pdf)
+[Удостоверение ООО "УТЦ Промбезопасность"](https://github.com/OlgaVi-QA/Certificates/blob/main/certificate_main.pdf)
 
 [Сертификат Stepik (SQL)](https://github.com/OlgaVi-QA/Certificates/blob/main/stepik_certificate_1.pdf)
 
