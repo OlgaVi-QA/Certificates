@@ -8,7 +8,7 @@
 
 [Сертификат Stepik (Postman)](stepik_certificate_postman.pdf)
 
-[Сертификат Cisco Academy](Networking_Basics_certificate.pdf) [Сертификат Cisco Academy](NetworkingBasicsUpdate.pdf) [Бейдж](networking-basics.png)
+[Сертификат Cisco Academy](Networking_Basics_certificate.pdf)  [Сертификат Cisco Academy](NetworkingBasicsUpdate.pdf)  [Бейдж](networking-basics.png)
 
 [Сертификат Stepik (GraphQL)](stepik_certificate_graphql_api.pdf)
 
